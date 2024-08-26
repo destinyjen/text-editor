@@ -25,5 +25,5 @@ This is a text editor that runs in the browser. The app will be a single-page ap
 Navgiate to the websites link via render - open the link from render deployment, Once the link is clicked and you enter the webpage, install the application on your computer to run the JATE text editor app.
 
 ## deployment link
-- [Rener](https://text-editor-cylw.onrender.com/)
+- [Render](https://text-editor-cylw.onrender.com/)
 
