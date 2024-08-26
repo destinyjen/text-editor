@@ -6,15 +6,24 @@ This is a text editor that runs in the browser. The app will be a single-page ap
 ## table of contents
 
  * [description](#description)
+ * [technologies](#technologies)
  * [installation](#installation)
  * [usage](#usage)
 
+## technologies
+- Fronted: HTML, CSS, Javascripy
+- Backend: Node.js, Express
+- Database: IndexedDB
+- Build Tool: Webpack
+
 ## installation
-1. Run npm i in the terminal to install all     required packages.
+1. Run npm i in the terminal to install all required packages.
 2. Run 'npm run build' to build the application.
 3. Run npm start to start the server.
 
 ## usage
 Navgiate to the websites link via render - open the link from render deployment, Once the link is clicked and you enter the webpage, install the application on your computer to run the JATE text editor app.
 
-## license
+## deployment link
+- [Rener](https://text-editor-cylw.onrender.com/)
+
